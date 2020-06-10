@@ -1,0 +1,68 @@
+<style>
+@import url('<"https://fonts.googleapis.com/css?family=Abril+Fatface|Roboto:300,700">);
+</style>
+
+.navbar {
+ background-color: ##f5bbb0e0;
+
+}
+
+.bg-pink {
+    background-color: ##f5bbb0e0;
+  }
+
+.btn-pink {
+  background-color: ##f5bbb0e0;
+  border-color: ##f5bbb0e0;
+}
+
+.card {
+    font-family: 'Roboto', sans-serif;
+}
+
+.body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+   }
+   
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Abril Fatface', serif;
+   }
+
+.p {
+    font-family: "Roboto", sans-serif;
+  }
+
+  body {padding-top:20px;}
+
+
+<!-- Footer -->
+
+.bg-4 {
+  background-color: #f5bbb0e0;
+  color: #ffffff;
+
+}
+
+
+/* unvisited link */
+a:nav-link {
+  color: #ffffff;
+}
+
+/* visited link */
+a:nav-link visited {
+  color: #ffffff;
+}
+
+/* mouse over link */
+a:nav-link hover {
+  color: #ffffff;
+}
+
+/* selected link */
+a:nav-link active {
+  color: #ffffff;
+}
+
+
